@@ -27,5 +27,5 @@ flask --app main run --debug
  
 **GDSC ML Department Leads**
 - [Naman Bansal](https://www.github.com/Nb4159)
-- [Prasann](https://www.github.com/Prasan2004)
+- [Prasann](https://www.github.com/Prasann2004)
 
